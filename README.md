@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Subrata Kumar De and I'm a Developer here at PAS Digital Technologies, from  India.</h2>
+<h2 align="center">Hi 👋! Subrata here. I'm a Developer at PAS Digital Technologies, from  India.</h2>
 
 ###
 
