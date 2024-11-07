@@ -75,7 +75,3 @@
 </div>
 
 ###
-
-<p align="left">📫 How to Reach Me</p>
-
-###
